@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+  color: rgb(255, 255, 255);
+  padding: 40px;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 40px;
+}
+
+pre {
+  font-family: "Courier New", monospace;
+  color: navy;
+  font-size: 30px;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
